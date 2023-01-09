@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: fn_qradar_integration
+Version: 2.2.5
+Summary: IBM QRadar SOAR Compnents for 'fn_qradar_integration'
+Home-page: https://github.com/ibmresilient/resilient-community-apps/tree/master/fn_qradar_integration
+Author: IBM SOAR
+Author-email: support@resilientsystems.com
+License: MIT License
+Platform: any
+Classifier: Programming Language :: Python
+Requires-Python: >=3.6
+
+fn_qradar_integration supports performing ariel search to retrieve data from QRadar. It also provide functions to find/add/delete reference set items.
